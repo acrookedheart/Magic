@@ -1,0 +1,22 @@
+# Unreal Engine generated folders
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+Build/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Starter Content
+Content/StarterContent/
+
+# Batch scripts (machine-specific)
+*.bat
