@@ -9,10 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "FPSAnimationPack",
-			"Enabled": true
-		},
-		{
 			"Name": "CascadeToNiagaraConverter",
 			"Enabled": true
 		}
